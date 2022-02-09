@@ -1,9 +1,5 @@
 # Description
-    he deployment of covid-19 vaccines in India was done in a sudden burst and thus the tracking became very complicated. 
-Due to multiple input and output commands on the server, it resulted in several slow running issues and crashes. 
-The Aadhar details were used to allot the vaccines and hence it operated on a central server.
-To avoid the use of central server for all commmands, a local server will be loaded with the vaccine-registered data. 
-Local verification and completion of vaccination data will be processed locally and will be loaded back to the main server by the end of day.
+GovernmentofIndiaistakingallnecessarystepstoensurethatthenationispreparedtofacethechallengeandthreatposedbythegrowingcontagionofCOVID-19.TheexemplarygroundworkandprecautionadvisorybytheGovernmenthashelpedincontainingthespreadofthevirusinourcountry.Atpresent,thepriorityistomakeCOVID-19vaccineavailabletoall,ensuringvaccinetraceabilityandbeneficiarytrackingfromproductiontolastmileadministration.COVID-19vaccinationdrivewasinitiatedtocoverhealthcareandfrontlineworkersandscaleduptocovercitizensabove45yearsofage.Now,thevaccinationhasopeneduptocoverallcitizensaged18yearsandabove.Co-WINapplicationisthedigitalbackboneforthevaccinationdriveinIndia.Withscalingupofvaccination;thenumberofvaccinationfacilitiesandsessionshastobeincreasedandmanagedeffectively.TheCO-WINapplicationwillfacilitatethecitizenwithanoptiontoregisterandschedulethevaccinationsessiononlineinCentersoftheirchoice.TheCitizenself-registrationmodulewillensurefool-proofidentificationofdeservingcandidatesforreceivingthevaccines.TheCo-WINapplicationfacilitatesmultiplerolecreationsfororchestratingvaccinationdriveatvariouslevels.
 
 # Requirements
   ##  High Level Requirements
