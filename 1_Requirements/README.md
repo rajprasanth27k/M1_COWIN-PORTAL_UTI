@@ -5,14 +5,14 @@
 
 ## High Level Requirements
 
- system used registration data for verification | Implemented |
- system can add new registrations               | Implemented |
- System should recognize vaccinated patients    | Implemented |
+ | system used registration data for verification | Implemented |
+ | system can add new registrations | Implemented |
+ | System should recognize vaccinated patients | Implemented |
  
 ## Low Level Requirement
 
-Only new can be Select vaccine type                   | Implemented |
- patients list vaccinated must be set as output       | Implemented |
+Only new can be Select vaccine type | Implemented |
+| patients list vaccinated must be set as output | Implemented |
 
 
 # SWOT
