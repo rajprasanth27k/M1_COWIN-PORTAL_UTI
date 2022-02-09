@@ -5,9 +5,9 @@
 
 ## High Level Requirements
 
- | system used registration data for verification | Implemented |
- | system can add new registrations | Implemented |
- | System should recognize vaccinated patients | Implemented |
+ |system used registration data for verification|Implemented |
+ |system can add new registrations|Implemented|
+ |System should recognize vaccinated patients|Implemented |
  
 ## Low Level Requirement
 
