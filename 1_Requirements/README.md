@@ -4,32 +4,17 @@
 # Requirements
 
 ## High Level Requirements
-| ID | Description | Status (Implemented/Future) |
-| --- | --- | --- |
-| HR01 | System should be able to access pre loaded registration data for verification | Implemented |
-| HR02 | User should be able to add new registrations | Implemented |
-| HR03 | System should recognize vaccinated patients | Implemented |
-| HR04 | OTP generated verification for secure registration | Future |
-| HR05 | System should recognize invalid credentials | Future |
-| HR06 | System should be updated with the time interval between two doses | Future |
 
+ system used registration data for verification | Implemented |
+ system can add new registrations               | Implemented |
+ System should recognize vaccinated patients    | Implemented |
+ 
 ## Low Level Requirement
-| ID | Description | Status (Implemented/Future) |
-| --- | --- | --- |
-| LR01 | Only new user must be given an option to select vaccine type | Implemented |
-| LR02 | Total quantity of vaccines used must be shown by EOD | Implemented |
-| LR03 | Full list of patients vaccinated must be set as output | Implemented |
-| LR04 | Remaining and present stock of vaccines must be tracked | Future |
-| LR05 | Vaccine vials must be tracked for its use within a day | Future |
+
+Only new can be Select vaccine type                   | Implemented |
+ patients list vaccinated must be set as output       | Implemented |
 
 
-  ##  High Level Requirements
-        Features of my project
-       
-  ##  Low Level Requirements
-        How each feature is implemented
-        Linkage of High level to Low level
-        
 # SWOT
   ![SWOT of vacccine registration](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/b332d0c9ff5cc7a40af651dc028259f600ab6773/1_Requirements/SWOT%20of%20vacccine%20registration.jpg)
 
