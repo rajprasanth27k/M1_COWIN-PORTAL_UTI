@@ -6,7 +6,7 @@
         2. system can add new registrations
         3. system should recognize vaccinated patients
 ## Low Level Requirement
-        1.Only new can be Select vaccine type.
+        1.Only new user can be Select vaccine type.
         2.patients list vaccinated must be set as output.
 # SWOT
   ![SWOT of vacccine registration](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/b332d0c9ff5cc7a40af651dc028259f600ab6773/1_Requirements/SWOT%20of%20vacccine%20registration.jpg)
