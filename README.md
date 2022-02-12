@@ -1,7 +1,7 @@
 # StepIN_VaccineRegist
 ## About the code
-| Codacy | Code Inspector | CI | Unity |
-| --- | --- | --- | --- |
+| Codacy | Code Inspector 
+| --- | --- |
 | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1edf2417a2e46699e8245f518c674f4)](https://app.codacy.com/gh/amithsnair11/StepIN_VaccineRegist?utm_source=github.com&utm_medium=referral&utm_content=amithsnair11/StepIN_VaccineRegist&utm_campaign=Badge_Grade_Settings)  | [![C/C++ CI](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/c-build.yml/badge.svg)](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/c-build.yml)  
 
 ## Aim
