@@ -1,16 +1,17 @@
 
 # StepIN_VaccineRegist
 ## High Level Test Plan
-| Test ID | Description | Input | Expected output | Actual Output |
+| Test ID | Description | Aadhar no | Age | Phone n.o | vaccine Provider |  Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
-| 01 | Check patient registration status | 123 (aadhar no) | {-1} |  (not found) |
-| 02 | Check patient registration status | 123 (aadhar no) | {0,1} |  (found) |
-| 03 | Check patient vaccination status | 3 (patient id) | {>0} | (vaccinated) |
+| 01 | New registration  |8021344 | 21 | 803456722 | Cipla | registered | registerd | 
+| 02 | Existing  patient | 1234565 | -- | -- |--- | Not found | Not found| 
+| 03 | Existing  patient | 2304895 | -- | -- |--- | Apollo | found | found | 
+
 ## Low Level Test Plan
 | Test ID | Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
-| 01 | Check patient registration status | 125 (aadhar no) | 0 | 0 (registered, not vaccinated) |
-| 02 | Check patient registration status | 130 (aadhar no) | 1 | 1 (registered, vaccinated) |
-| 03 | Check patient vaccination status | 3 (patient id) | 1 | 1 (first dose) |
-| 04 | Check patient vaccination status | 3 (patient id) | 2 | 2 (second dose) |
-| 05 | Check patient vaccination status | 3 (patient id) | 3 | 3 (already vaccinated) |
+| 01 | Check patient registration status | 8021344  | registered, not vaccinated | registered, not vaccinated |
+| 02 | Check patient registration status | 1234565  | registered, vaccinated| registered, vaccinated |
+| 03 | Check patient vaccination status  |  2302395 | 1st dose | 1st dose |
+| 04 | Check patient vaccination status  |  2304895 | 2nd dose | 2nd dose |
+
