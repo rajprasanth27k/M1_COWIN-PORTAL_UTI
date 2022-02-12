@@ -1,4 +1,10 @@
 # COWIN-PORTAL
+
+## About the code
+| Codacy | Code Inspector 
+| --- | --- |  
+| ![quality score](https://api.codiga.io/project/31240/score/svg)| ![project quality](https://api.codiga.io/project/31240/status/svg) |
+
 ## FOLDER CONTENTS:
 | S.NO |TITLE|DESCRIPTION
 |--|--|--|
@@ -11,27 +17,23 @@
 |6|IMAGES AND VIDEOS|COMPILATION OUTPUT OF THE SOURCE CODE|
 
 
-
-
-## About the code
-| Codacy | Code Inspector 
-| --- | --- |  
-| ![quality score](https://api.codiga.io/project/31240/score/svg)| ![project quality](https://api.codiga.io/project/31240/status/svg) |
 ## Aim
-* Smoother vaccination registration process
-* Reduced data traffic in the main server
-* Operation of registration and verification is localized
+*  To create a registration form for vaccination.
+*  For both exiting and old user.
+*  To Provide the certificate from vaccination provider.
 ## Input
-* Pre-registered list of patients for vaccination
-* New registration of patients for vaccination
+* personal details like aadhar,name,phone number,age,etc
+* New register patients can have the option to select the vaccine type.
 ## Process
-* Pre registered patients who had appointments verify the documents
-* Verification is done with pre registered data of patients
-* New registrations are added to the vaccinated log
-* Total number of vaccine vials consumed is tracked for both type of vaccines
+* Aadhar number are verified and matcher for exciting user
+* If patient exiting continue second short form is open.
+* For new user must fill the detail and select vaccinate type for registration.
+* The user must enter the details of vaccine provider and submit form to generate the certificate.
+
 ## Output
-* Vaccinated data log is updated and new registrations are added to the end of the pre data list
-* List of vaccinated patients along with total vials consumed is printed
+* Vaccination datas are updated.
+* Automatic certificated is generated with beneficiary detail and vaccine details. 
+
 
 
 
