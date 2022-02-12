@@ -5,6 +5,8 @@
 | --- | --- |  
 | ![quality score](https://api.codiga.io/project/31240/score/svg)| ![project quality](https://api.codiga.io/project/31240/status/svg) |
 
+ | ![project quality](https://app.codiga.io/public/project/31240/M1_COWIN-PORTAL_UTI/dashboard) |
+
 ## FOLDER CONTENTS:
 | S.NO |TITLE|DESCRIPTION
 |--|--|--|
