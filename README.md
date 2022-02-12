@@ -1,7 +1,7 @@
 # COWIN-PORTAL
 
 ## About the code
-| codiga | codiga | 
+| Codiga | Codiga | 
 | --- | --- | 
 | ![quality score](https://api.codiga.io/project/31240/score/svg)| ![project quality](https://api.codiga.io/project/31240/status/svg) |                                    
 
