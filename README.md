@@ -2,7 +2,7 @@
 ## About the code
 | Codacy | Code Inspector 
 | --- | --- |  
-| --- | --- |
+| https://api.codiga.io/project/31240/score/svg | --- |
 ## Aim
 * Smoother vaccination registration process
 * Reduced data traffic in the main server
