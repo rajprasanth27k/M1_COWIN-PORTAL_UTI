@@ -2,7 +2,7 @@
 ## About the code
 | Codacy | Code Inspector 
 | --- | --- |  
-| ![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1edf2417a2e46699e8245f518c674f4)]| --- |
+| ![Codacy Badge](https://api.codiga.io/project/31240/score/svg| --- |
 ## Aim
 * Smoother vaccination registration process
 * Reduced data traffic in the main server
