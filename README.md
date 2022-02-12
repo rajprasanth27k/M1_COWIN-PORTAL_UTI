@@ -1,4 +1,5 @@
-# StepIN_VaccineRegist
+# COWIN-PORTAL
+
 ## About the code
 | Codacy | Code Inspector 
 | --- | --- |  
