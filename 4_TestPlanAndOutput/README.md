@@ -3,7 +3,7 @@
 ## High Level Test Plan
 | Test ID | Description | Aadhar no | Age | Phone n.o | vaccine Provider |  Expected output | Actual Output |
 | --- | ------ | --- | --- | --- |----|--------|--------|
-| 01 | New registration  |8021344 | 21 | 803456722 | Cipla | registered | registerd | 
+| 01 | New registration  |8021344 | 21 | 803456722 | Cipla | registered | Registerd | 
 | 02 | Existing  patient | 1234565 | -- | -- |--- | Not found | Not found| 
 | 03 | Existing  patient | 2304895 | -- | -- |--- | Apollo | found | found | 
 
