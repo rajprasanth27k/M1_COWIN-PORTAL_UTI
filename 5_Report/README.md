@@ -42,4 +42,21 @@
 * Vaccination datas are updated.
 * Automatic certificated is generated with beneficiary detail and vaccine details. 
 
+# Design
+  # Structural
+   ![1_structure diagram](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/96a81d566a3f85af9a474fac946a9ad571b06c1d/2_Architecture/1_structure%20diagram.png)
+  
+  # Behavioural
+   ![2_behavioral diagram](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/96a81d566a3f85af9a474fac946a9ad571b06c1d/2_Architecture/2_behavioral%20diagram.jpg)
+
+
+## Login 
+   ![1_login](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/8218cf382b4284d0485d700459bb586299cc9136/6_Image%20and%20videos/1_login.PNG)
+   
+## Registration 
+   ![2_Registration](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/8218cf382b4284d0485d700459bb586299cc9136/6_Image%20and%20videos/2_Registration.PNG)
+   
+## certificate
+   ![3_certificate](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/8218cf382b4284d0485d700459bb586299cc9136/6_Image%20and%20videos/3_certificate.PNG)
+
 
