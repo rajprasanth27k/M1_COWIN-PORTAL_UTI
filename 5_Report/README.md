@@ -25,4 +25,21 @@
 # 4W's & 1H
  ![4 W's and 1 H](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/ad903af11ad37efce107c15e852f363a3933e3d5/1_Requirements/4%20W's%20and%201%20H.jpg)
 
+## Aim
+*  To create a registration form for vaccination.
+*  For both exiting and old user.
+*  To Provide the certificate from vaccination provider.
+## Input
+* personal details like aadhar,name,phone number,age,etc
+* New register patients can have the option to select the vaccine type.
+## Process
+* Aadhar number are verified and matcher for exciting user
+* If patient exiting continue second short form is open.
+* For new user must fill the detail and select vaccinate type for registration.
+* The user must enter the details of vaccine provider and submit form to generate the certificate.
+
+## Output
+* Vaccination datas are updated.
+* Automatic certificated is generated with beneficiary detail and vaccine details. 
+
 
