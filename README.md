@@ -2,7 +2,7 @@
 ## About the code
 | Codacy | Code Inspector 
 | --- | --- |  
-
+| --- | --- |
 ## Aim
 * Smoother vaccination registration process
 * Reduced data traffic in the main server
