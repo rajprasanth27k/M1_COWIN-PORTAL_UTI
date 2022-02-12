@@ -4,21 +4,21 @@
 ## High Level Requirements
 | ID | Description | Status (Implemented/Future) |
 | --- | --- | --- |
-| HR01 | System should be able to access pre loaded registration data for verification | Implemented |
-| HR02 | User should be able to add new registrations | Implemented |
-| HR03 | System should recognize vaccinated patients | Implemented |
-| HR04 | OTP generated verification for secure registration | Future |
-| HR05 | System should recognize invalid credentials | Future |
-| HR06 | System should be updated with the time interval between two doses | Future |
+| HR01 | Registration forms for vaccine details   | Implemented |
+| HR02 | Registration forms for new  user | Implemented |
+| HR03 | pre-vaccinated patients can identified | Implemented |
+| HR04 | OTP generated verification | Future |
+| HR05 | Identify the Invalid statements | Future |
+
 
 ## Low Level Requirement
 | ID | Description | Status (Implemented/Future) |
 | --- | --- | --- |
-| LR01 | Only new user must be given an option to select vaccine type | Implemented |
-| LR02 | Total quantity of vaccines used must be shown by EOD | Implemented |
-| LR03 | Full list of patients vaccinated must be set as output | Implemented |
-| LR04 | Remaining and present stock of vaccines must be tracked | Future |
-| LR05 | Vaccine vials must be tracked for its use within a day | Future |
+| LR01 | Only new user can choose vaccine type | Implemented |
+| LR02 | Identify the  vaccination provider | Implemented |
+| LR03 | Automatic certification generator | Implemented |
+| LR04 | Sending message | Future |
+
 
 # SWOT
   ![SWOT of vacccine registration](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/b332d0c9ff5cc7a40af651dc028259f600ab6773/1_Requirements/SWOT%20of%20vacccine%20registration.jpg)
