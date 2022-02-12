@@ -2,7 +2,7 @@
 ## About the code
 | Codacy | Code Inspector 
 | --- | --- |  
-|  ![Code Quality Score](https://www.code-inspector.com/project/28301/score/svg) | --- |
+| ![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1edf2417a2e46699e8245f518c674f4)](https://app.codacy.com/gh/amithsnair11/StepIN_VaccineRegist?utm_source=github.com&utm_medium=referral&utm_content=amithsnair11/StepIN_VaccineRegist&utm_campaign=Badge_Grade_Settings)| --- |
 ## Aim
 * Smoother vaccination registration process
 * Reduced data traffic in the main server
