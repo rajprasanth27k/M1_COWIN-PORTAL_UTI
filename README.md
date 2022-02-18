@@ -3,9 +3,10 @@
 ## About the code
 | Codiga | Codiga | 
 | --- | --- | 
-| ![quality score](https://api.codiga.io/project/31240/score/svg)| ![project quality](https://api.codiga.io/project/31240/status/svg) |<a href="https://app.codiga.io/public/user/github/karthick0403">
-   <img src="https://api.codiga.io/public/badge/user/github/karthick0403?style=light" alt="codiga badge" />
-</a> |                                   
+| ![quality score](https://api.codiga.io/project/31240/score/svg)| ![project quality](https://api.codiga.io/project/31240/status/svg) |
+<a href="https://app.codiga.io/public/user/github/rajprasanth27k">
+   <img src="https://api.codiga.io/public/badge/user/github/rajprasanth27k?style=light" alt="codiga badge" />
+</a>                                  
 
 
 
