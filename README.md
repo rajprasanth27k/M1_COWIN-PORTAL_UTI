@@ -3,7 +3,7 @@
 ## About the code
 | Codiga | Codiga | Build-Linux | C/C++ CI |
 | --- | --- | ------|------|
-| ![quality score](https://api.codiga.io/project/31240/score/svg)| ![project quality](https://api.codiga.io/project/31240/status/svg) |[![Build-Linux](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/Build-Linux.yml) |[![C/C++ CI](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/c-cpp.yml) |
+| ![quality score](https://api.codiga.io/project/31240/score/svg)  ![project quality](https://api.codiga.io/project/31240/status/svg) |[![Build-Linux](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/Build-Linux.yml) |[![C/C++ CI](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/c-cpp.yml) |
 
 <a href="https://app.codiga.io/public/user/github/rajprasanth27k">
    <img src="https://api.codiga.io/public/badge/user/github/rajprasanth27k?style=light" alt="codiga badge" />
