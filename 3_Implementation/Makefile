@@ -37,7 +37,12 @@ Run_test : Build_test
 
 
 
+staticcheck:
+	cppcheck --enable=all -iunity .
 
+coverage:$(TEST_SRC)
+	gcc -fprofile-arcs -ftest-coverage $(SRC) -Iinc -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcov -a ./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 
 
