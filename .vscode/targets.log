@@ -1,0 +1,312 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make data base, printed on Thu Mar 03 11:27:00 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# makefile (from `makefile', line 2)
+SRC = main.c src/login.c src/prov.c 
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := h:/2raju
+# default
+SHELL := C:/WinAVR-20100110/utils/bin/sh.exe
+# makefile (from `makefile', line 12)
+RM = del /q
+# environment
+WINDIR = C:\Windows
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+PYCHARM COMMUNITY EDITION = C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;
+# environment
+ONEDRIVE = C:\Users\RAJ\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from `makefile', line 1)
+MAKEFILE_LIST :=  makefile
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\RAJ\AppData\Local\Temp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-cadbb593-6c5a-4cfb-9b18-3d062feacc8e-sock
+# environment
+VSCODE_CWD = C:\Users\RAJ\AppData\Local\Programs\Microsoft VS Code
+# makefile (from `makefile', line 6)
+TEST_SRC = test/test_head.c unity/unity.c src/login.c src/prov.c 
+# environment
+PATH = C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microchip\xc8\v2.32\bin;C:\Program Files (x86)\Microchip\MPLAB IDE\VDI;C:\Program Files (x86)\HI-TECH Software\PICC\PRO\9.65\bin;C:\Program Files\PuTTY\;C:\MinGW\bin;C:\Program Files (x86)\Arduino\hardware\tools\avr\bin;C:\Program Files (x86)\Arduino\har 
+make.exe: *** No rule to make target `all'.  Stop.
+ 
+dware\tools\avr\etc;C:\Users\RAJ\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\MinGW\bin;C:\Users\RAJ\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\msys\1.0\bin;C:\Program Files (x86)\Arduino\hardware\tools\avr\bin;C:\Program Files (x86)\Arduino\hardware\tools\avr\etc;
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+PROG27B48B2C054 = 1
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\RAJ
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives
+# automatic
+%F = $(notdir $%)
+# makefile (from `makefile', line 13)
+FixPath = $(subst /,\,$1)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_2424_LYBXIJFEUHTORJOE
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = DESKTOP-IJ1U1EK
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+AVR32_HOME = C:\WinAVR-20100110
+# environment
+USERNAME = RAJ
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\RAJ\AppData\Roaming\Code\CachedData\f80445acd5a3dadef24aa209168452a3d97cc326
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\DESKTOP-IJ1U1EK
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = DESKTOP-IJ1U1EK
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# makefile (from `makefile', line 14)
+EXEC = exe
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := Build
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LOCALAPPDATA = C:\Users\RAJ\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# makefile (from `makefile', line 23)
+INC = -Iinc -Iunity 
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 22 Model 48 Stepping 1, AuthenticAMD
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\63f6e8bc774692203a140e7f67d6a296-1.64.2-main-sock
+# environment
+HOMEPATH = \Users\RAJ
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+SYSTEMROOT = C:\Windows
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\RAJ\AppData\Roaming
+# environment
+TEMP = C:\Users\RAJ\AppData\Local\Temp
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 3001
+# makefile (from `makefile', line 1)
+PROJ_NAME = COVID
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 22
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 2424
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-IJ1U1EK
+# variable set hash-table stats:
+# Load=98/1024=10%, Rehash=0, Collisions=10/118=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key h:/2raju, mtime 1646286987): 12 files, no impossibilities.
+# C:\WinAVR-20100110\bin (key C:/WinAVR-20100110/bin, mtime 1645200967): 75 files, no impossibilities.
+# C:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1645200992): 99 files, no impossibilities so far.
+
+# 186 files, no impossibilities in 3 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+Build_test:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 33):
+	gcc $(TEST_SRC) -Iinc -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-03-02 22:36:53
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+Build:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 27):
+	gcc $(SRC) -Iinc -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	
+
+Run_test: Build_test
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 36):
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+	
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+Run: Build
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 30):
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+	
+
+# files hash-table stats:
+# Load=8/1024=1%, Rehash=0, Collisions=0/21=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Thu Mar 03 11:27:00 2022
+
+ 

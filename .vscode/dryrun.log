@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `h:/2raju'
+gcc main.c src/login.c src/prov.c  -Iinc -o COVID.exe -lm
+ 
+make.exe: Leaving directory `h:/2raju'
+ 
