@@ -1,5 +1,5 @@
 
-# StepIN_VaccineRegist
+
 ## High Level Test Plan
 | Test ID | Description | Aadhar no | Age | Phone n.o | vaccine Provider |  Expected output | Actual Output |
 | --- | ------ | --- | --- | --- |----|--------|--------|
