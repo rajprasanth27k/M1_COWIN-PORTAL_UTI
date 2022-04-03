@@ -4,7 +4,7 @@
 | Codiga  | Build-Linux | C/C++ CI | Codacy Badge |
 | --- | ------|------| ----|
 | ![quality score](https://api.codiga.io/project/32526/score/svg) |[![Build-Linux](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/Build-Linux.yml) |[![C/C++ CI](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/c-cpp.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c58fddf229f741a19649a6899703fa2e)](https://www.codacy.com/gh/rajprasanth27k/M1_COWIN-PORTAL_UTI/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rajprasanth27k/M1_COWIN-PORTAL_UTI&amp;utm_campaign=Badge_Grade)
-| ![project quality](https://api.codiga.io/project/31240/status/svg)|[![Unity Testing -Unity](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/unity.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/unity.yml)|
+| ![project quality](https://api.codiga.io/project/32526/status/svg)|[![Unity Testing -Unity](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/unity.yml/badge.svg)](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/actions/workflows/unity.yml)|
 
 
 
